@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.um { 
+    background-color: black;
+    color: white;
+}
+
+.dois {
+    background-color: yellow;
+}
+
+.um,
+.dois {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+} 
