@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.impares {
+    background-color: rgb(245, 131, 154);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.impares.grande {     /* Eu poderia ter deixado apenas .grande que ia dar na mesma, mas por algum motivo eu coloquei '.impares.grande' e deu certo também */
+    font-size: 24px;
+
+}
+
+#segundo {
+    color: blue;
+    font-size: 36px;
+}
+
+#quarto {
+    background-color: rgb(131, 194, 37);
+    font-size: 24px;
+    font-weight: bold;
+}
